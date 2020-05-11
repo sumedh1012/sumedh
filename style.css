@@ -1,0 +1,42 @@
+.purple-color{color:#8845f4}
+ body{font-family:sans-serif;
+              color:#777777;
+              line-height:30px;}
+.half-width
+{width:50%;
+float:left;}
+.side-img
+{ width:80%;
+  padding-left:30px;
+  padding-top:60px;
+  }
+.primary-btn
+{color:red;
+ background-color:pink;
+ padding:13px 42px 13px 42px;
+ border-radius:20px;
+ text-decoration:none;}
+ h1 
+ { 
+   font-size:2.5em ;
+ }
+ .container
+ {padding-left:5%;
+ display:inline-block;}
+ 
+ .img
+ {
+ width:75%;
+  padding-left:30px;
+  padding-top:69px;
+  size:500px;}
+  .exp
+  {
+  padding:30px;
+  margin:30px;
+  background-color:rgb(258,1526,627);}
+  .exp-item
+  {
+  padding:10px;
+  border-left:1px solid rgba(137,134,347,.2)
+  }
